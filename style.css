@@ -3,12 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
-
 .body{
     overflow-x: hidden;
 }
-
-
 .logo
 {
     display:flex;
@@ -37,7 +34,6 @@
     line-height: 64px;
     color: #294B29;
 }
-
 .box3
 {
     display: flex; 
@@ -57,10 +53,54 @@
     height: 90.15px;
 }
 .box33
-
 {
     /* image 3 */
     width: 82px;
     height: 90.1px;
 }
 
+/*YAHAN SE KAAM NIKHIL THE DON NE KIYA HAI (NAV-BAR)*/
+
+.nav-bar{
+    display:flex;
+    position:absolute;
+    top:120px;
+    height:71px;
+    width:100%;
+    background-image: url(./assets/armybg.png);
+}
+.hamburger{
+    height: 48px;
+    width: 48px;
+    margin-top: 14px;
+    margin-left:30px;
+}
+.options{
+    display: flex;
+    position: absolute;
+    margin-top: 27px;
+    margin-left: 12%;
+    gap: 10%;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+}
+.about-us{
+    white-space: nowrap;
+}
+a{
+    color:black;
+}
+.right-end{
+    display:flex;
+    position:absolute;
+    margin-left: 85%;
+    margin-top:25px;
+    gap: 15%;
+    font-weight: 500;
+    
+}
+.pfp{
+    height: 35px;
+    width: 35px;
+}
