@@ -104,15 +104,7 @@ color: #DBE7C9;
 }
 
 
-.right-end{
-    display:flex;
-    position:absolute;
-    margin-left: 85%;
-    margin-top:25px;
-    gap: 7%;
-    font-weight: 500;
-    
-}
+
 .pfp{
     height: 35px;
     width: 35px;
@@ -289,7 +281,7 @@ color: #DBE7C9;
     justify-content:center ;
     padding: 2rem;
     gap:2rem;  
-    padding-bottom: 4rem; 
+    padding-bottom: 2rem; 
 }
 .invent
 {
