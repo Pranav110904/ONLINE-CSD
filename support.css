@@ -256,7 +256,7 @@ color: #DBE7C9;
 .design
 {
     display: flex;
-    justify-content: center;
+    justify-content: start;
     align-items: center;
     flex-direction: column;
     padding: 50px;
@@ -272,5 +272,5 @@ color: #DBE7C9;
     background-color:#50623A;
     width: 100vw;
     height: 100px;
-
 }
+
