@@ -54,3 +54,12 @@ slider.addEventListener('mouseout', () => {
 
 // Pre-calculate image widths for smoother transitions (optional)
 const imageWidths = Array.from(images).map(img => img.offsetWidth);
+
+
+//search ke liye button function kardiya
+
+const btn=document.querySelector('.button');
+const body=document.querySelector('body');
+btn.addEventListener('click',()=>{
+    body.style.filter = "blur(5px)";
+})
