@@ -320,7 +320,7 @@ color: #DBE7C9;
     align-items: center;
     gap: 40px;
     flex-wrap: wrap;
-    padding: 115px;
+    padding: 90px;
 }
 
 .text1
@@ -522,3 +522,114 @@ color: #DBE7C9;
     font-size: larger;
 }
 
+.shopbutton {
+    padding: 1rem;
+    margin-top: -3rem;
+    border-radius: 1.5rem;
+    margin-bottom: 2rem;
+    font-size: 1.2rem;
+    border:2px solid #B0CA89;
+    font-weight: 500;
+}
+
+.shopdiv{
+    display: flex;
+    justify-content: center;
+}
+
+.shopa {
+    text-decoration: none;
+}
+
+
+
+.items{
+    font-size: 2rem;
+    color:#DBE7C9;
+    font-weight:600 ;
+    padding-left: 7rem;
+    padding-top: 2rem;
+}
+
+
+.jd_table{
+    min-width: 250px;
+    height: fit-content;
+    box-shadow: 0.1px 0.1px 3px rgba(0, 0,0,0.2);
+    border-radius: 2px;
+    font-family:'Plus Jakarta Sans';
+    border-radius:8px;  
+    padding-top: 12px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    cursor: pointer;
+    width:20%;
+    margin-top: 2rem;
+}
+
+.jd_table ul{
+    list-style: none;
+    display:flex;
+    flex-direction:column;
+    gap: 16px;
+}
+.jd_table ul a{
+    color:#000000;
+    text-align:left;
+    vertical-align: middle;
+    line-height:24px;
+    border-style:hidden;
+    height: auto;
+    border-top: 1px solid rgba(234,234,234,1);
+    padding-top: 14px;
+    font-size: 1.5rem;
+    text-decoration: none;
+    font-weight: 400;
+}
+.shopheading{
+    font-size: 2rem;
+    font-weight: 600;
+    color:black;
+    text-align: center;
+ 
+    margin-top: 1rem;
+}
+
+
+.maindiv{
+    display: flex;
+    gap:1rem;
+}
+
+
+#mainContent{
+    background-color: #DBE7C9;
+    width: 67%;
+    margin-top: 2rem;
+    border-radius: 2rem;
+    
+}
+
+.imgarrange img{
+    width: 16rem;
+}
+
+.imgarrange{
+    margin-top: 2rem;
+    left:5;
+    justify-content: space-evenly;
+    display: flex;
+    margin-bottom: 3rem;
+}
+
+.itemText{
+   padding: 1rem; 
+   font-size: 1.5rem;
+   background-color: white;
+   color:black;
+   margin-top: -12px;
+text-align: center;
+   z-index: 4;
+  
+}
