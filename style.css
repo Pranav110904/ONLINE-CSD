@@ -104,7 +104,15 @@ color: #DBE7C9;
 }
 
 
-
+.right-end{
+    display:flex;
+    position:absolute;
+    margin-left: 85%;
+    margin-top:25px;
+    gap: 7%;
+    font-weight: 500;
+    
+}
 .pfp{
     height: 35px;
     width: 35px;
@@ -117,7 +125,6 @@ margin: 0 auto;
 position: relative;
 width: 100vw;
 height: 74px;
-background-color:#789461 ;
 
 justify-content: center;
 align-items: center;
@@ -219,20 +226,7 @@ color: #DBE7C9;
     height: auto; /* Automatically adjust the height to maintain aspect ratio */
 }
 
-
-.movingtext
-{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    font-size: large;
-    margin-top: 5rem;
-    margin-bottom: 5rem;
-}
-
-
 .container {
-    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -246,10 +240,12 @@ color: #DBE7C9;
 
 .container1
 {
-    position:absolute;
+    
     display: flex;
     justify-content: center;
     align-items: center;
+   
+    
 }
 .arrow
 {
@@ -293,7 +289,7 @@ color: #DBE7C9;
     justify-content:center ;
     padding: 2rem;
     gap:2rem;  
-    padding-bottom: 2rem; 
+    padding-bottom: 4rem; 
 }
 .invent
 {
@@ -313,8 +309,6 @@ color: #DBE7C9;
 
 .category
 {
-    
-    position: relative;
     display: flex;
     justify-content: center;
     align-items: center;
