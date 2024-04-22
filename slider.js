@@ -58,8 +58,8 @@ const imageWidths = Array.from(images).map(img => img.offsetWidth);
 
 //search ke liye button function kardiya
 
-const btn=document.querySelector('.button');
+const btn=document.querySelector('.');
 const body=document.querySelector('body');
 btn.addEventListener('click',()=>{
-    body.style.filter = "blur(5px)";
+    location.href=".cont-blur";
 })

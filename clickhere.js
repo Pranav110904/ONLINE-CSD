@@ -1,1 +1,0 @@
-const code=document.querySelector(".blurfunc");
