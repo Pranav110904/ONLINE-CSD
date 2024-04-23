@@ -130,6 +130,7 @@ height: 74px;
 justify-content: center;
 align-items: center;
 gap: 10px;
+color: #294B29
 }
 .text
 {
@@ -141,7 +142,6 @@ font-size: 27px;
 line-height: 39px;
 
 color: #294B29;
-
 
 }
 .button
