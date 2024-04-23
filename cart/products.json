@@ -1,49 +1,49 @@
 [
     {
         "id": 1,
-        "name":" LD01 LOUNGE CHAIR",
-        "price": 200,
+        "name":"7968 Badshah Paneer",
+        "price": 100,
         "image": "image/1.png"
     },
     {
         "id": 2,
-        "name":" LD02 LOUNGE CHAIR",
+        "name":" 4896 Bajaj Bulb",
         "price": 250,
         "image": "image/2.png"
     },
     {
         "id": 3,
-        "name":" LD03 LOUNGE CHAIR",
+        "name":" 7415 Haldiram Sev",
         "price": 290,
         "image": "image/3.png"
     },
     {
         "id": 4,
-        "name":" LD04 LOUNGE CHAIR",
+        "name":" 5620 Dabur Chyawanprash",
         "price": 200,
         "image": "image/4.png"
     },
     {
         "id": 5,
-        "name":" LD05 LOUNGE CHAIR",
+        "name":" 4680 Moov Pain Relief",
         "price": 300,
         "image": "image/5.png"
     },
     {
         "id": 6,
-        "name":" LD06 LOUNGE CHAIR",
+        "name":" 7884 Parle-G",
         "price": 200,
         "image": "image/6.png"
     },
     {
         "id": 7,
-        "name":" LD07 LOUNGE CHAIR",
+        "name":" 7845 Vim Bar",
         "price": 200,
         "image": "image/7.png"
     },
     {
         "id": 8,
-        "name":" LD08 LOUNGE CHAIR",
+        "name":" 1385 Savlon Liquid",
         "price": 200,
         "image": "image/8.png"
     }
