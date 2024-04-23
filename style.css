@@ -280,7 +280,16 @@ color: #DBE7C9;
     object-fit: cover;
 }
 
+.imgarrange{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+}
 
+.poop{
+    margin-top: 20px;
+}
 
 .headi
 {
