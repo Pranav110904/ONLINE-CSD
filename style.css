@@ -628,3 +628,34 @@ text-align: center;
    z-index: 4;
   
 }
+html {
+    scroll-behavior: smooth;
+}
+
+
+.subbtn
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+    align-self: center;
+    
+}
+
+.sub1
+{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 2px solid #294B29;
+    background-color: #50623A;
+    text-align: center;
+    width: 30%;
+    height: 40px;
+    border-radius: 2rem;
+}
+.sub
+{
+    text-decoration: none;
+    color: white;
+}
