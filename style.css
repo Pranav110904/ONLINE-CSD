@@ -459,11 +459,7 @@ color: #DBE7C9;
 
 }
 
-.footer{
-    background-color: #B0CA89;
-    width: 100vw;
-    height: 300px;
-}
+      
 
 .cont-blur
 {
@@ -667,4 +663,59 @@ html {
 {
     text-decoration: none;
     color: white;
+}
+.footer
+{
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+   
+}
+
+.footdes1
+{
+   
+    position: absolute;
+    width: 100vw;
+    height: 700px;
+    
+}.footdes
+{
+    position: absolute;
+    width: 100vw;
+    height: 700px;
+}
+.footerclass
+{
+    margin-top: 300px;
+    display: flex;
+    position: relative;
+    justify-content: center;
+    gap: 10rem;
+    
+}
+.student
+{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 3rem;
+}
+
+.links
+{
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    font-size: xx-large;
+}
+.footerlink
+{
+    text-decoration: none;
+    color: #FFFFFF;
 }
