@@ -679,17 +679,17 @@ html {
    
     position: absolute;
     width: 100vw;
-    height: 700px;
+    height: 500px;
     
 }.footdes
 {
     position: absolute;
     width: 100vw;
-    height: 700px;
+    height: 500px;
 }
 .footerclass
 {
-    margin-top: 300px;
+    margin-top: 200px;
     display: flex;
     position: relative;
     justify-content: center;
